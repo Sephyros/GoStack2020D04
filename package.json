@@ -12,7 +12,7 @@
   "dependencies": {
     "@testing-library/jest-native": "^3.4.3",
     "@types/jest": "^26.0.19",
-    "axios": "^0.21.0",
+    "axios": "^0.21.1",
     "axios-mock-adapter": "^1.19.0",
     "react": "17.0.1",
     "react-native": "0.63.4"
